@@ -1,0 +1,8 @@
+# Jekyll configuration for GitHub Pages
+theme: jekyll-theme-minimal
+title: Mogu Exercise Support
+description: Privacy Policy & Support for Mogu Exercise iOS App
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/xiaotiantakumi/MoguExercise-support

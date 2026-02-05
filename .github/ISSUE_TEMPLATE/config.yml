@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📧 Email Support
+    url: "mailto:xiaotiantakumi@gmail.com"
+    about: For direct inquiries or urgent matters, please email us.
+  - name: 📖 Privacy Policy
+    url: "https://xiaotiantakumi.github.io/MoguExercise-support/privacy/"
+    about: Learn about how we protect your data.
+  - name: ❓ Support Page
+    url: "https://xiaotiantakumi.github.io/MoguExercise-support/support/"
+    about: Visit our support page for common issues and help.
